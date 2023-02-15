@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+.Main {
+    text-align: center;
+}
+
+.main-heading{
+    background-color: azure;
+}
+
+.main-list{
+    list-style-type: lower-greek;
+    color: #000000;
+}
+
+.Main a {
+    color: green;
+}
