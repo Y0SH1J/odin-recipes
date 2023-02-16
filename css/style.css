@@ -1,9 +1,10 @@
-body {
-    background-color: aquamarine;
-}
 
-.Main {
+/* Code for Main page */
+
+.Main{
     text-align: center;
+    background-color: aquamarine;
+    background-image: url("../cooking.gif");
 }
 
 .main-heading{
@@ -12,9 +13,41 @@ body {
 
 .main-list{
     list-style-type: lower-greek;
-    color: #000000;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aquamarine;
 }
 
 .Main a {
-    color: green;
+    color: white;
 }
+
+/* Code for Recipe Page */
+
+.image{
+    width: 500px;
+    height: width;
+}
+
+.Subhead {
+    background-color: aqua;
+}
+
+.Description{
+    background-color: antiquewhite;
+}
+
+.ingredient-list{
+    list-style-type: square;
+    background-color: azure;
+}
+
+.steps-list{
+    background-color: azure;
+}
+
+.home-link{
+    color: greenyellow;
+}
+
