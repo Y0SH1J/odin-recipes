@@ -5,6 +5,7 @@
     text-align: center;
     background-color: aquamarine;
     background-image: url("../cooking.gif");
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .main-heading{
