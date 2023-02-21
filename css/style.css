@@ -46,6 +46,7 @@
 
 .steps-list{
     background-color: azure;
+    list-style-type: none;
 }
 
 .home-link{
