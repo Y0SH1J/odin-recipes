@@ -13,6 +13,7 @@
 }
 
 .main-list{
+    list-style-position: inside;
     list-style-type: lower-greek;
     color: white;
     font-size: 32px;
